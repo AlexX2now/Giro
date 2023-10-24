@@ -73,7 +73,7 @@ h2 {
     min-height: 75vh;
     margin-left: auto;
     text-align: center;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../IMG/scooter.jpg") no-repeat center top / cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/scooter.jpg") no-repeat center top / cover;
 }
 
 .h1-main-bg {
@@ -361,7 +361,7 @@ input {
     height: 263px;
     margin-right: 25px;
     text-align: center;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../IMG/Decide.png") no-repeat center top / cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/Decide.png") no-repeat center top / cover;
 }
 
 .usefull-item-2 {
@@ -369,7 +369,7 @@ input {
     height: 263px;
     margin-right: 25px;
     text-align: center;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../IMG/Which.png") no-repeat center top / cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/Which.png") no-repeat center top / cover;
 }
 
 .usefull-item-3 {
@@ -377,14 +377,14 @@ input {
     height: 263px;
     margin-right: 25px;
     text-align: center;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../IMG/Sig.png") no-repeat center top / cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/Sig.png") no-repeat center top / cover;
 }
 
 .usefull-item-4 {
     width: 263px;
     height: 263px;
     text-align: center;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../IMG/Soviet.png") no-repeat center top / cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/Soviet.png") no-repeat center top / cover;
 }
 
 .bottom {
