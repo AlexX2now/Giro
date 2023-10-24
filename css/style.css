@@ -1,0 +1,423 @@
+body {
+    margin: 0;
+    font-family: "Segoe UI", sans-serif;
+}
+
+.container {
+    max-width: 1124px;
+    margin: auto;
+}
+
+.top-header {
+    box-shadow: 0 1px 5px 1px rgba(0, 0, 0, 25%);
+}
+
+.bot-header {
+    font: 16px;
+}
+
+.btn {
+    width: 184px;
+    height: 37px;
+    color: #ffffff;
+    font: bold 100%;
+    background-color: #ffa019;
+    border: 0px;
+    border-radius: 10px;
+    font: bold 13px system-ui;
+    cursor: pointer;
+    margin: 0 0 0 auto;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+}
+
+.nav {
+    margin: 0 0 0 auto;
+}
+
+.menu {
+    font: 14px;
+    color: black;
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+}
+
+.menu-item {
+    margin-left: 32px;
+    cursor: pointer;
+    font: 14px system-ui;
+}
+
+.a-menu {
+    color: #000000;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 2em;
+    margin: 13px 0;
+}
+
+.phone {
+    margin: 22px 0;
+}
+
+.first-view {
+    padding-bottom: 100px;
+    color: #fff;
+    min-height: 75vh;
+    margin-left: auto;
+    text-align: center;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../IMG/scooter.jpg") no-repeat center top / cover;
+}
+
+.h1-main-bg {
+    margin: 0 auto;
+    padding-top: 17%;
+    font: lighter 56px system-ui;
+}
+
+.desc-main {
+    margin: 20px auto;
+    margin-bottom: 50px;
+}
+
+.button-main {
+    cursor: pointer;
+    padding: 10px 40px;
+    color: black;
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+    font: bold 13px system-ui;
+}
+
+.adv-title {
+    position: relative;
+    display: flex;
+}
+
+.slide {
+    display: flex;
+    margin: 0 0 0 auto;
+}
+
+.b-left {
+    border: none;
+    background-color: white;
+    padding: 0;
+    margin-right: 5px;
+}
+
+.b-right {
+    border: none;
+    background-color: white;
+    padding: 0;
+    margin-left: 5px;
+}
+
+h3 {
+    font: lighter 30px system-ui;
+    display: inline;
+}
+
+h4 {
+    font: lighter 20px system-ui;
+    text-align: center;
+}
+
+.advantages-main {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.advantage {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.advantage-item {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font: lighter 20px system-ui;
+}
+
+.subscribe-menu {
+    background-color: #ffa019;
+    margin-bottom: 70px;
+}
+
+.mailing-list {
+    display: flex;
+    align-items: center;
+    background-color: #ffa019;
+}
+
+.subscribe-text {
+    color: #fff;
+    font: bold 18px system-ui;
+    margin-right: 20px;
+}
+
+input {
+    border: 1px solid #ffffff;
+    margin: 10px;
+    background-color: #ffa019;
+    color: #fff;
+    height: 35px;
+    width: 350px;
+    font: lighter 14px system-ui;
+    padding-left: 10px;
+}
+
+.subscribe-btn {
+    height: 35px;
+    width: 350px;
+    cursor: pointer;
+    padding: 10px 20px;
+    color: #000000;
+    border: none;
+    background-color: #fff;
+    font: bold 14px system-ui;
+}
+
+.features-main {
+    display: flex;
+    margin-bottom: 70px;
+}
+
+.features {
+    padding-top: 30px;
+    padding-left: 0;
+    padding-right: 150px;
+    list-style-type: none;
+    margin: 0;
+    font: lighter 20px system-ui;
+}
+
+.article-end {
+    margin-bottom: 70px;
+}
+
+.catalog-btn {
+    cursor: pointer;
+    background-color: #fff;
+    margin-left: 10px;
+    padding: 5px 10px;
+    border-radius: 20px;
+    border: none;
+    font: lighter 16px system-ui;
+}
+
+.catalog-btn:hover {
+    background-color: #ffa019;
+    color: white;
+}
+
+.catalog {
+    display: flex;
+}
+
+.catalog-item {
+    box-shadow: 0 1px 5px 1px rgba(0, 0, 0, 25%);
+    width: 250px;
+    margin-right: 40px;
+    position: relative;
+}
+
+.catalog-img {
+    margin-left: 20px;
+    margin-top: 30px;
+    width: 190px;
+}
+
+.catalog-title {
+    border-radius: 0 15px 15px 0;
+    background-color: #ffa019;
+    margin-top: 20px;
+    padding-left: 20px;
+    margin-right: 60px;
+    font: bold 16px system-ui;
+    color: #fff;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.sig {
+    margin-right: 140px;
+}
+
+.giro {
+    margin-right: 90px;
+}
+
+.p-catalog {
+    margin-left: 10px;
+    font: lighter 16px system-ui;
+}
+
+.price {
+    margin-left: 10px;
+    font: bold 20px system-ui;
+}
+
+.consultants {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.people {
+
+    margin-left: 20px;
+
+    margin-right: 50px;
+
+    width: 200px;
+
+}
+
+.consultant-title {
+    display: block;
+    padding-top: 200px;
+}
+
+.consultant-item {
+    display: flex;
+}
+
+.consultant-item-1 {
+    display: flex;
+}
+
+.consultant-img {
+    height: 160px;
+    width: 140px;
+}
+
+.consultant-name {
+    margin-top: 0;
+    margin-bottom: 5px;
+    font: large 20px system-ui;
+    text-align: left;
+}
+
+.consultant-job {
+    margin-bottom: 20px;
+    margin-top: 0;
+    font: italic 12px system-ui;
+    text-align: left;
+}
+
+.consultant-btn {
+    cursor: pointer;
+    padding: 5px 20px;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+    background-color: #ffa019;
+    font: bold 10px system-ui;
+}
+
+.brends {
+    text-align: center;
+    justify-content: center;
+    margin: 80px 0;
+}
+
+.brend-item {
+    margin: auto;
+    color: #9b9b9b;
+    font: bold 50px system-ui;
+}
+
+.usefulls{
+    display: flex;
+    margin-top: 60px;
+    margin-bottom: 400px;
+}
+
+.a-usefull{
+    text-decoration: none;
+    color: white;
+}
+
+.usefull-text{
+    padding-top: 100px;
+    font: bold 17px system-ui;
+}
+
+.usefull-item-1 {
+    width: 263px;
+    height: 263px;
+    margin-right: 25px;
+    text-align: center;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../IMG/Decide.png") no-repeat center top / cover;
+}
+
+.usefull-item-2 {
+    width: 263px;
+    height: 263px;
+    margin-right: 25px;
+    text-align: center;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../IMG/Which.png") no-repeat center top / cover;
+}
+
+.usefull-item-3 {
+    width: 263px;
+    height: 263px;
+    margin-right: 25px;
+    text-align: center;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../IMG/Sig.png") no-repeat center top / cover;
+}
+
+.usefull-item-4 {
+    width: 263px;
+    height: 263px;
+    text-align: center;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../IMG/Soviet.png") no-repeat center top / cover;
+}
+
+.bottom {
+    margin-right: 20%;
+    width: 350px;
+    color: #8191a6;
+    font: lighter 14px system-ui;
+}
+
+.bottom-infa {
+    display: flex;
+}
+
+.bottom-dop-infa {
+    display: flex;
+}
+
+.menu-mini {
+    list-style-type: none;
+}
+
+.bottom-item {
+    cursor: pointer;
+    font: lighter 14px system-ui;
+}
+
+.mini-header {
+    margin-bottom: 30px;
+    color: #303842;
+    font: bold 14px system-ui;
+}
+
+.a-mini-menu {
+    color: #8191a6;
+    text-decoration: none !important;
+}
